@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krenzen91
+- neznerk
 - 👀 I’m interested in SQL
 - 🌱 I’m currently learning C++
 
